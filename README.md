@@ -1,6 +1,8 @@
 # LaravelApiKey
 
-Simple Example Laravel with Api Key
+[![Build Status](https://travis-ci.org/Tony133/LaravelApiKey.svg?branch=master)](https://travis-ci.org/Tony133/LaravelApiKey)
+
+Simple Example Laravel 5.4 with Api Key
 
 ## Install with Composer
 
