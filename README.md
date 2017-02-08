@@ -21,7 +21,7 @@ Simple Example Laravel 5.4 with Api Key
     $ curl -H 'content-type: application/json' -v -X DELETE http://localhost:8000/api/books/:id
 ```
 
-## User Authentication Api Key with Curl
+## Example User Authentication Api Key with Curl
 
 ```
 	$ curl -H 'content-type: application/json' -v -X GET http://localhost:8000/api/books?api_token:token
