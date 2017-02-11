@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "tony133/laravel-api-key",
+    "description": "Simple Example Laravel 5.4 with Api Key",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
