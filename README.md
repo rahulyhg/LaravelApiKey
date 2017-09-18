@@ -2,13 +2,13 @@
 
 [![Build Status](https://travis-ci.org/Tony133/LaravelApiKey.svg?branch=master)](https://travis-ci.org/Tony133/LaravelApiKey)
 
-Simple Example Laravel 5.4 with Api Key
+Simple Example Laravel 5.5 LTS with Api Key
 
 ## Install with Composer
 
 ```
     $ curl -s http://getcomposer.org/installer | php
-    $ php composer.phar install
+    $ php composer.phar install or composer install
 ```
 
 ## Getting with Curl
